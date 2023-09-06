@@ -17,9 +17,8 @@
 
 ---
 
-## Direct descendants
-
-- [+ spring-boot](https://github.com/AlexanderLapygin/spring-boot-helloworld/tree/main#readme)
+## Direct ancestors
+[- log4j](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
 
 ---
 
