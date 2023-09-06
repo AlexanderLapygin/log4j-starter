@@ -4,12 +4,13 @@
     </a>
 </div> 
 
-# HelloWorld on Java
+# Log4j Starter
 
 
 ## Feature tags
 
 - java
+- log4j
 - maven
 - starter
 - template
@@ -30,6 +31,7 @@
 
 ## Requirements
 
+- [Log4j](https://logging.apache.org/log4j/2.x/)
 - [Maven](https://maven.apache.org/)
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
