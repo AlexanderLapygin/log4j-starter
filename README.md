@@ -46,10 +46,13 @@ mvnw clean package
 ## Run
 
 ```sh
-java -cp target/hello-world-1.0-SNAPSHOT.jar com.example.App
+java -jar target/hello-world-1.0.jar
 ```
 
-Watch 'Hello World!' in the console.
+See the log entry in the *app.log* file:
+```sh
+2023-09-06 23:44:39,261 [main] INFO  com.example.App - Hello, World!
+```
 
 ### License
 
