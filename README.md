@@ -20,6 +20,9 @@
 ## Direct ancestors
 [- log4j](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
 
+## Direct descendants
+[+ gelf](https://github.com/AlexanderLapygin/log4j-graylog-gelf-starter#readme)]()
+
 ---
 
 ## Author
