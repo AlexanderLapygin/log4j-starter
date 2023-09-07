@@ -22,7 +22,6 @@
 
 ## Direct descendants
 [+ gelf](https://github.com/AlexanderLapygin/log4j-graylog-gelf-starter#readme)
-[+ gelf](https://github.com/AlexanderLapygin/log4j-graylog-gelf-starter#readme)
 
 ---
 
